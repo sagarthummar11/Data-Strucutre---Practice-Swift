@@ -1,2 +1,2 @@
-# Data-Strucutre---Practice-Swift
+# Data Strucutre - Practice | Swift
 Practice of data structure using Swift language. 
